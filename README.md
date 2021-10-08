@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radean
 - 👀 I’m interested in Games, and related Digital Technologies
-- 🌱 I’m currently learning AI, ML, and Unreal Engine 5 Alpha
+- 🌱 I’m working on learning AI, ML, and Unreal Engine 5 Alpha
 - 💞️ I’m looking to collaborate on UE5, and other platforms
 - 📫 How to reach me radeanf@gmail.com , +971-054-719-2816
 
